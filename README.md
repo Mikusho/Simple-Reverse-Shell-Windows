@@ -1,2 +1,2 @@
 # Simple-Reverse-Shell-Windows
-Simple reverse shell Windows Powershell with Netcat and Ngrok
+Simple reverse shell Windows CMD with Netcat and Ngrok
